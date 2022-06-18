@@ -1,5 +1,5 @@
-***** **POC for Moving the data from Redshift to S3** *****
-<br>
+**POC for Moving the data from Redshift to S3**
+
 Requirements:<br>
 We have a test table in redshift public schema, we need to move all the data from the table 
 to s3 partitioned in the way that one file can contain only 1 million records.
