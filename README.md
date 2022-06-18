@@ -1,4 +1,4 @@
-**POC for Moving the data from Redshift to S3**
+**Moving the data from Redshift to S3**
 
 Requirements:<br>
 We have a test table in redshift public schema, we need to move all the data from the table 
